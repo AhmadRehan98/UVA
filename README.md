@@ -1,2 +1,2 @@
 # UVA
-low tier solutions to dem nasty problems 
+Solutions to some UVA problems 
